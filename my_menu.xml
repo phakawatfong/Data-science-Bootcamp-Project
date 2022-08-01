@@ -1,0 +1,32 @@
+<menu>
+  <food>
+    <name>Pizza</name>
+    <price>$12</price>
+    <calories>560</calories>
+  </food>
+  <food>
+    <name>Hamburger</name>
+    <price>$20</price>
+    <calories>490</calories>
+  </food>
+  <food>
+    <name>Dimsum</name>
+    <price>$30</price>
+    <calories>1000</calories>
+  </food>
+  <food>
+    <name>Noodle</name>
+    <price>$10</price>
+    <calories>250</calories>
+  </food>
+  <food>
+    <name>French Fried</name>
+    <price>$20</price>
+    <calories>2000</calories>
+  </food>
+  <food>
+    <name>ข้าวเหนียว มะม่วง</name>
+    <price>$5</price>
+    <calories>4000</calories>
+  </food>
+</menu>
